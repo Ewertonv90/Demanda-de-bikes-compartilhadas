@@ -3,3 +3,7 @@ Utlizando dados metereologicos, este estudo prevê a demanda de bikes alugadas n
 
 - Banco de dados de treino é refenrente ao uso do ano de 2011
 - Bano de dados de teste é referente ao uso do ano de 2012.
+
+
+dataset e informações da competição:
+https://www.kaggle.com/competitions/bike-sharing-demand
